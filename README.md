@@ -1,2 +1,2 @@
-# C-C-AND-C-
+# C programming
 THIS REPO CONTAINS C , C++ AND C# FILES
